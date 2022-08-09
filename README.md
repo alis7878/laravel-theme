@@ -16,11 +16,3 @@ Code for [Laravel 8 + AdminLTE 3](https://youtu.be/Krc-4MIHFlk)
 - Run __php artisan serve__ (if you want to use other port add __--port=90__)
 - You can __register__ by clicking on top-right
 
-## License
-
-Feel free to use and re-use any way you want.
-
-## More
-
-- Check out my YouTube channel [Dot Coding](https://www.youtube.com/channel/UCYobBTcVkUvIqQW3sSTGarg).
-- Feel free to send me an e-mail for support [dot.bol.lp@gmail.com](mailto:dot.bol.lp@gmail.com).
